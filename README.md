@@ -1,4 +1,5 @@
 # Shophomore 🛒
+# Live Site- https://shophomore.netlify.app/
 Welcome to Shophomore, a modern e-commerce platform that makes online shopping simple and exciting!
 
 ## Features
